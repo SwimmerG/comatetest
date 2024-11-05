@@ -1,11 +1,35 @@
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+data = [10, 20, 30, 40]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 def calculate_average(numbers):
-    abc =1
-    bcd =2 
-    cde =3
     total = sum(numbers)
-    average = total / len(disk)  # 将 dist 改为 numbers
-    return averag
+    average = total / len(disk) 
+    average
+    return average
 
 data = [10, 20, 30, 40]
 a = 1

@@ -1,7 +1,9 @@
 # main.py
 
-from module1 import calculate_total
 
+def calculate_total():
+    total = subtotal + tax
+    return total
 # Placeholder functions to fill space without affecting the logic
 def placeholder_func_1():
     pass
